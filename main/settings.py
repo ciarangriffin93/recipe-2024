@@ -28,7 +28,6 @@ SECRET_KEY = 'django-insecure-%b!-bqwz1f2lt6ov_0uk1)2+$zj3_9u+r_k@nggsr@=c_k(xjf
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-
 ALLOWED_HOSTS = ['8000-ciarangriffi-recipe2024-eduj0ystd05.ws.codeinstitute-ide.net' ,'.herokuapp.com']
 
 
